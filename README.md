@@ -13,7 +13,7 @@ As a traveller, the best thing to do is see the weather condition before we make
 The application is built using VS Code. The app is made using of html, css, javascript, jQuery and server side API library.
  
 # Screenshot of app
-![weather dashboard screenshot](weather dashboard.png);
+![weather dashboard screenshot](weatherDashboard.png);
 
 # deployed link of app
 (https://manneu.github.io/Assignment6/
