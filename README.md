@@ -16,7 +16,7 @@ The application is built using VS Code. The app is made using of html, css, java
 ![weather dashboard screenshot](weather dashboard.png);
 
 # deployed link of app
-()
+(https://manneu.github.io/Assignment6/
 
 # Contact
 Manish Neupane
